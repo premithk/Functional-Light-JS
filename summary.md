@@ -1,6 +1,13 @@
 # Summary
 * Foreword
 * ch1 
-* [Part II](part2/README.md)
-    * [We love feedback](part2/feedback_please.md)
-    * [Better tools for authors](part2/better_tools.md)
+* ch2 
+* ch3 
+* ch4 
+* ch5 
+* ch6 
+* ch7 
+* ch8 
+* ch9 
+* ch10
+* ch11
