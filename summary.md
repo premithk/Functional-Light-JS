@@ -1,9 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
-* Foreword
+* [Foreword](/foreword.md)
 * [ch1 ](ch1.md)
-* ch2 
+* [ch2](/ch2.md) 
 * ch3 
 * ch4 
 * ch5 
@@ -16,4 +16,6 @@
 * ap1
 * ap2
 * ap3
+
+
 
