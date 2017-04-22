@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+*  [Preface](/preface.md)
 * [Foreword](/foreword.md)
 * [Chapter 1: Why Functional Programming? ](ch1.md)
 * [Chapter 2: Foundations of Functional Functions](/ch2.md) 
